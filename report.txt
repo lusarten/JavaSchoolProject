@@ -1,0 +1,107 @@
+
+Enter Room Number: 1502
+
+Now You Need To Enter A Teacher For The Classroom.
+Enter Teacher First Name: Sam
+Enter Teacher Last Name: Huston
+Enter Subject Taught: Science
+
+Now You Need To Add Students For The Classroom
+Enter Student First Name: Helen
+Enter Student Last Name: Brown
+Enter Student ID: 1478
+Enter Student Final Grade: A
+Please enter a valid integer: 96
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: Max
+Enter Student Last Name: Smith
+Enter Student ID: 2589
+Enter Student Final Grade: 95
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: Jason
+Enter Student Last Name: Jackson
+Enter Student ID: 3691
+Enter Student Final Grade: 92
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: Kelly
+Enter Student Last Name: King
+Enter Student ID: 1346
+Enter Student Final Grade: 89
+
+Enter Another Student? (Y/N):
+
+Enter Another Classroom? (Y/N): y
+Please enter a valid integer: 1503
+
+Now You Need To Enter A Teacher For The Classroom.
+Enter Teacher First Name: Sarah
+Enter Teacher Last Name: Harrington
+Enter Subject Taught: English
+
+Now You Need To Add Students For The Classroom
+Enter Student First Name: Emily
+Enter Student Last Name: Yoon
+Enter Student ID: 6234
+Enter Student Final Grade: 82
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: John
+Enter Student Last Name: Wilson
+Enter Student ID: 6458
+Enter Student Final Grade: 88
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: Jack
+Enter Student Last Name: Davis
+Enter Student ID: 7546
+Enter Student Final Grade: 90
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: Allen
+Enter Student Last Name: Walker
+Enter Student ID: 8546
+Enter Student Final Grade: 94
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: Oliver
+Enter Student Last Name: Hall
+Enter Student ID: 5642
+Enter Student Final Grade: 97
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: Olivia
+Enter Student Last Name: Lewis
+Enter Student ID: 6173
+Enter Student Final Grade: 95
+
+Enter Another Student? (Y/N): y
+Enter Student First Name: Sophia
+Enter Student Last Name: Clark
+Enter Student ID: 5523
+Enter Student Final Grade: 95
+
+Enter Another Student? (Y/N): n
+
+Enter Another Classroom? (Y/N): n
+----------------------------------------------------------
+Room Number: 1502
+Sam Huston teaches Science
+Student ID: 1478        Helen Brown     Final Grade: 96
+Student ID: 2589        Max Smith       Final Grade: 95
+Student ID: 3691        Jason Jackson   Final Grade: 92
+Student ID: 1346        Kelly King      Final Grade: 89
+----------------------------------------------------------
+----------------------------------------------------------
+Room Number: 1503
+Sarah Harrington teaches English
+Student ID: 6234        Emily Yoon      Final Grade: 82
+Student ID: 6458        John Wilson     Final Grade: 88
+Student ID: 7546        Jack Davis      Final Grade: 90
+Student ID: 8546        Allen Walker    Final Grade: 94
+Student ID: 5642        Oliver Hall     Final Grade: 97
+Student ID: 6173        Olivia Lewis    Final Grade: 95
+Student ID: 5523        Sophia Clark    Final Grade: 95
+----------------------------------------------------------
